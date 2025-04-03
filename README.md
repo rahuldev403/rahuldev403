@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img src="https://readme-components.vercel.app/api?component=experience&company=Octopus%20Energy&role=Software%20Developer&location=Moravské%20Budějovice&fill=black">
+<img src="https://readme-components.vercel.app/api?component=experience&company=Octopus%20Energy&role=Software%20Developer&location=Bangaluru%20Karnataka&fill=black">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(62deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25)">
