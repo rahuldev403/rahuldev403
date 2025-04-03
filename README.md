@@ -1,4 +1,42 @@
-<div align="center">
+# Hi there 👋
+
+<p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=text&text=I'M%20MARTINA%20SVOBODOVÁ&fill=linear-gradient(to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25)">
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=experience&company=Octopus%20Energy&role=Software%20Developer&location=Moravské%20Budějovice&fill=black">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(62deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25)">
+</a>
+</p>
+
+## Things I use on a daily basis
+
+<p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=3670A0">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=61DAFB">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38B2AC">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05033">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
 
 # 💫 About Me:
 Welcome to my GitHub profile! 👨‍💻💥  
@@ -13,7 +51,7 @@ Check out my repositories, and feel free to connect—whether it's for a project
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-swain-268484306/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-svobodova/)  
 
 ---
 
@@ -44,16 +82,16 @@ Check out my repositories, and feel free to connect—whether it's for a project
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=rahuldev403&theme=aura&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=martinasvobodova&theme=aura&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=martinasvobodova&theme=aura&hide_border=true" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinasvobodova&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahuldev403&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=martinasvobodova&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -67,14 +105,10 @@ Check out my repositories, and feel free to connect—whether it's for a project
 
 ### 🔝 Top Contributed Repo:
 <p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=rahuldev403&limit=5&theme=aura&combine_all_yearly_contributions=true" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=martinasvobodova&limit=5&theme=aura&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
