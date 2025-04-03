@@ -112,12 +112,7 @@ Check out my repositories, and feel free to connect—whether it's for a project
 
 ---
 
-### 🔝 Top Contributed Repo:
-<p align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=martinasvobodova&limit=5&theme=aura&combine_all_yearly_contributions=true" />
-</p>
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
