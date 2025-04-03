@@ -1,16 +1,19 @@
 # Hi there 👋
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img src="https://readme-components.vercel.app/api?component=text&text=I'M%20MARTINA%20SVOBODOVÁ&fill=linear-gradient(to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25)">
+<a href="https://github.com/rahuldev403
+/readme-components">
+<img src="https://readme-components.vercel.app/api?component=text&text=I'M%20RAHUL%20SWAIN&fill=linear-gradient(to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25)">
 </a>
 </p>
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=experience&company=Octopus%20Energy&role=Software%20Developer&location=Bangaluru%20Karnataka&fill=black">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(62deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25)">
 </a>
 </p>
@@ -18,22 +21,28 @@
 ## Things I use on a daily basis
 
 <p align="left">
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=3670A0">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=61DAFB">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38B2AC">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05033">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com/rahuldev403
+/readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
