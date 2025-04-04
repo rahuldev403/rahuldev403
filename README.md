@@ -91,16 +91,16 @@ Check out my repositories, and feel free to connect—whether it's for a project
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=martinasvobodova&theme=aura&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=martinasvobodova&theme=aura&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinasvobodova&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false" /><br/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=rahuldev403&theme=aura&hide_border=true" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=martinasvobodova&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rahuldev403&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
