@@ -1,26 +1,17 @@
 # Hi there 👋
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/rahuldev403
 /readme-components">
 <img src="https://readme-components.vercel.app/api?component=text&text=I'M%20RAHUL%20SWAIN&fill=linear-gradient(to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25)">
 </a>
 </p>
 
-<p align="left">
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=experience&company=Octopus%20Energy&role=Software%20Developer&location=Bangaluru%20Karnataka&fill=black">
-</a>
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient(62deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25)">
-</a>
-</p>
+
 
 ## Things I use on a daily basis
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/rahuldev403
 /readme-components">
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=3670A0">
@@ -46,6 +37,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
+
 
 # 💫 About Me:
 Welcome to my GitHub profile! 👨‍💻💥  
@@ -103,16 +95,12 @@ Check out my repositories, and feel free to connect—whether it's for a project
 ## 📊 GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=rahuldev403&theme=aura&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+   
 </p>
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahuldev403&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+
 
 ---
 
