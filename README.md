@@ -92,6 +92,13 @@ Check out my repositories, and feel free to connect—whether it's for a project
 </p>
 
 ---
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=contest" alt="LeetCode Stats" />
+</p>
+
+---
 
 ## 📊 GitHub Stats:
 <p align="center">
