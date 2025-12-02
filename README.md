@@ -90,18 +90,6 @@ Curious mind, disciplined learner, and someone who enjoys turning ideas into rea
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&theme=aura&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-   
-</p>
-
----
-
-
-
----
-
 ### ✍️ Random Dev Quote:
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
