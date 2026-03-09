@@ -1,103 +1,95 @@
-# Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rahul%20Swain&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+</p>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Rahul Swain
+</h1>
 
 <p align="center">
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=text&text=I'M%20RAHUL%20SWAIN&fill=linear-gradient(to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25)">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Next.js+%7C+Node.js+Developer;DSA+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🚀 About Me
+
+Hi, I'm **Rahul Swain**  
+
+• Computer Science student  
+• Full Stack Developer (Next.js + Node.js)  
+• Passionate about **DSA, Backend Systems, and AI applications**  
+• Focused on building **real-world projects and scalable systems**
+
+I enjoy solving complex problems and turning ideas into real products.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rahul-swain-268484306/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
-
-
-
-
-
-# 💫 About Me:
-### Hi, I'm Rahul 👋  
-
-Curious mind, disciplined learner, and someone who enjoys turning ideas into real projects. I love problem-solving, exploring new technologies, and building things that make an impact. Always learning, always growing.  
-
-
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-swain-268484306/)  
+# ⚙️ Tech Stack
 
----
-## Things I use on a daily basis:
 <p align="center">
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=3670A0">
-</a>
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=61DAFB">
-</a>
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38B2AC">
-</a>
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05033">
-</a>
-<a href="https://github.com/rahuldev403
-/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-</p>
 
-
----
-# 💻 Tech Stack:
-<p align="center">
- <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nextjs,nodejs,express,mongodb,git,github,tailwind" />
 
 </p>
 
 ---
 
-### 🐍 Contribution Snake:
-<p align="center">
-    <img src="https://github.com/rahuldev403/rahuldev403/blob/output/github-snake-dark.svg" />
-</p>
-
----
-## 📈 LeetCode Stats
+# 💻 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap"/>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote:
+# 🔥 GitHub Streak
+
 <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=rahuldev403&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/rahuldev403/rahuldev403/blob/output/github-snake-dark.svg"/>
 </p>
 
 ---
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# ✨ Random Dev Quote
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
