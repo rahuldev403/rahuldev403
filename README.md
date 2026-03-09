@@ -8,7 +8,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Next.js+%7C+Node.js+Developer;DSA+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
-
+<p align="center">
+<a href="https://rahulswain.me">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-rahulswain.me-0A66C2?style=for-the-badge"/>
+</a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -26,14 +30,18 @@ Hi, I'm **Rahul Swain**
 
 I enjoy solving complex problems and turning ideas into real products.
 
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://rahulswain.me">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/rahul-swain-268484306/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
