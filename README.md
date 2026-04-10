@@ -34,9 +34,9 @@ I enjoy solving complex problems and turning ideas into real products.
 
 <p align="center">
 
-<a href="https://rahulswain.me">
+<!-- <a href="https://rahulswain.me">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/rahul-swain-268484306/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
@@ -58,37 +58,37 @@ I enjoy solving complex problems and turning ideas into real products.
 
 # 💻 LeetCode Activity
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap"/>
-</p>
+</p> -->
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=rahuldev403&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/rahuldev403/rahuldev403/blob/output/github-snake-dark.svg"/>
-</p>
+</p> -->
 
 ---
 
