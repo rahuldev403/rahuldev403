@@ -34,9 +34,9 @@ I enjoy solving complex problems and turning ideas into real products.
 
 <p align="center">
 
-<!-- <a href="https://rahulswain.me">
+<a href="https://rahulswain.me">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white"/>
-</a> -->
+</a> 
 
 <a href="https://www.linkedin.com/in/rahul-swain-268484306/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
