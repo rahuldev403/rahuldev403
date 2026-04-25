@@ -58,37 +58,37 @@ I enjoy solving complex problems and turning ideas into real products.
 
 # 💻 LeetCode Activity
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap"/>
-</p> -->
+</p> 
 
 ---
 
 # 🔥 GitHub Streak
 
-<!-- <p align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=rahuldev403&theme=tokyonight&hide_border=true"/>
 
-</p> -->
+</p> 
 
 ---
 
 # 📈 Contribution Graph
 
-<!-- <p align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&theme=tokyo-night&hide_border=true"/>
 
-</p> -->
+</p> 
 
 ---
 
 # 🐍 Contribution Snake
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github.com/rahuldev403/rahuldev403/blob/output/github-snake-dark.svg"/>
-</p> -->
+</p>
 
 ---
 
