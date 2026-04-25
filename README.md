@@ -59,7 +59,7 @@ I enjoy solving complex problems and turning ideas into real products.
 # 💻 LeetCode Activity
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/RahulS43?ext=heatmap"/>
 </p> 
 
 ---
