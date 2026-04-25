@@ -69,7 +69,7 @@
 ## 💻 LeetCode Grind
 
 <a href="https://leetcode.com/RahulS43/">
-  <img src="https://leetcard.jacoblin.cool/RahulS43?ext=heatmap&theme=tokyonight&hide_border=true"/>
+  <img src="https://leetcard.jacoblin.cool/RahulS43?ext=heatmap&theme=dark&hide_border=true"/>
 </a>
 
 <br><br>
