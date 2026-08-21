@@ -68,7 +68,7 @@
 
 ## 💻 LeetCode Grind
 
-<a href="https://leetcode.com/RahulS43/">
+<a href="https://leetcode.com/rahuldev403/">
   <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap&theme=dark&hide_border=true"/>
 </a>
 
