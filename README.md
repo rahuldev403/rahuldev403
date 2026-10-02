@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,30:3b0ca3,65:00c6ff,100:05001a&height=260&section=header&text=RAHUL%20SWAIN&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20REPEAT&descAlignY=58&descSize=15&descColor=8be9fd"/>
-</p>
-
+<p align="center"> <img src="./assets/pixel-banner.svg" width="100%" alt="RAHUL SWAIN - pixel art banner"/> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+Stack+Engineer;%F0%9F%A7%A0+GenAI+%26+Backend+Systems;%E2%9A%94+DSA+%7C+C%2B%2B+%7C+Competitive+Programming;%F0%9F%9A%80+Building+Systems%2C+Not+Just+Projects;%F0%9F%A5%8B+Code+%2B+Discipline+%2B+Consistency" alt="Typing SVG" />
 </p>
@@ -22,7 +19,9 @@
   <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:6a11cb,50:00c6ff,100:6a11cb&height=3&section=header"/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
+
 
 <br>
 
@@ -52,7 +51,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00c6ff,50:7b2fff,100:00c6ff&height=3&section=header"/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
@@ -60,13 +59,17 @@
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"/>
 
+<br><br>
+
+### 📈 `PULSE`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&bg_color=05001a&color=00c6ff&line=7b2fff&point=ffffff&area=true&area_color=3b0ca3&hide_border=true&radius=12" width="95%" alt="Activity graph"/>
+
 </div>
 
 <br>
 
-<div align="center">
-
-<br>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
@@ -76,11 +79,7 @@
 <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap&theme=dark&border=0"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### 🐍 `CONTRIBUTIONS ARE ALIVE`
 
@@ -90,7 +89,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:6a11cb,50:00c6ff,100:6a11cb&height=3&section=header"/>
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
