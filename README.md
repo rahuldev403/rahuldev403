@@ -21,8 +21,6 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
-
-
 <br>
 
 <div align="center">
@@ -61,10 +59,6 @@
 
 <br><br>
 
-### 📈 `PULSE`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&bg_color=05001a&color=00c6ff&line=7b2fff&point=ffffff&area=true&area_color=3b0ca3&hide_border=true&radius=12" width="95%" alt="Activity graph"/>
-
 </div>
 
 <br>
@@ -72,14 +66,6 @@
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
-
-## 🧩 `LEETCODE GRIND`
-
-<a href="https://leetcode.com/rahuldev403/">
-<img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap&theme=dark&border=0"/>
-</a>
-
-<br><br>
 
 ### 🐍 `CONTRIBUTIONS ARE ALIVE`
 
@@ -110,7 +96,5 @@
 </p>
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,35:3b0ca3,65:00c6ff,100:05001a&height=130&section=footer&animation=twinkling"/>
-</p>
+ <img src="./assets/divider.svg" width="100%"/> 
+ <p align="center"> <img src="./assets/pixel-footer.svg" width="100%" alt="Thanks for visiting - press start"/> </p>
