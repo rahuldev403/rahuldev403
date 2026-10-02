@@ -68,21 +68,6 @@
 
 <div align="center">
 
-## 📊 `GITHUB MATRIX`
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&show_icons=true&hide_border=true&theme=tokyonight&bg_color=05001A&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev403&layout=compact&hide_border=true&theme=tokyonight&bg_color=05001A&title_color=00F7FF&text_color=FFFFFF" width="40%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&bg_color=05001A&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&area_color=3B0CA3&hide_border=true" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahuldev403&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-
-</div>
-
 <br>
 
 <div align="center">
