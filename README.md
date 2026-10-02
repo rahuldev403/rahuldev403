@@ -1,3 +1,4 @@
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 <p align="center"> <img src="./assets/pixel-banner.svg" width="100%" alt="RAHUL SWAIN - pixel art banner"/> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+Stack+Engineer;%F0%9F%A7%A0+GenAI+%26+Backend+Systems;%E2%9A%94+DSA+%7C+C%2B%2B+%7C+Competitive+Programming;%F0%9F%9A%80+Building+Systems%2C+Not+Just+Projects;%F0%9F%A5%8B+Code+%2B+Discipline+%2B+Consistency" alt="Typing SVG" />
@@ -31,7 +32,7 @@
   <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
+
 
 <br>
 
@@ -85,13 +86,10 @@
 ### `⚡ BUILD SOMETHING WORTH REMEMBERING ⚡`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Train.+Repeat.;Build+with+purpose.;Discipline+over+motivation.;One+commit+at+a+time." alt="Rahul's philosophy"/>
-</p>
-
-<p align="center">
   <i>"Don't wish it were easier. Wish you were better."</i>
 </p>
 
 </div>
- <img src="./assets/divider.svg" width="100%"/> 
+
  <p align="center"> <img src="./assets/pixel-footer.svg" width="100%" alt="Thanks for visiting - press start"/> </p>
+  <img src="./assets/divider.svg" width="100%"/> 
