@@ -28,25 +28,7 @@
 
 <div align="center">
 
-## 👨‍💻 `ABOUT ME`
 
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  > whoami          →  Rahul Swain                        │
-│  > role            →  Full Stack Engineer                │
-│  > focus           →  GenAI • Backend Systems • DSA      │
-│  > weapon          →  C++ / TypeScript / Python / Go     │
-│  > currently       →  Building systems worth remembering │
-│  > mindset         →  Discipline > Motivation            │
-│  > off-duty        →  🥋 Martial arts & training         │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
 
 ## 🧊 `THE STACK`
 
