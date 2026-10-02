@@ -61,10 +61,6 @@
 
 <br><br>
 
-### 📈 `PULSE`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&bg_color=05001a&color=00c6ff&line=7b2fff&point=ffffff&area=true&area_color=3b0ca3&hide_border=true&radius=12" width="95%" alt="Activity graph"/>
-
 </div>
 
 <br>
