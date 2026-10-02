@@ -1,97 +1,152 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:6a11cb,100:2575fc&height=250&section=header&text=Rahul%20Swain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,30:3b0ca3,65:00c6ff,100:05001a&height=260&section=header&text=RAHUL%20SWAIN&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20REPEAT&descAlignY=58&descSize=15&descColor=8be9fd"/>
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Yo, I'm Rahul Swain! 🥋💻
-</h1>
-
 <p align="center">
-  <a href="https://github.com/rahuldev403">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=IIT+Madras+Student;Full+Stack+Developer;Gen+AI+%26+Backend+Systems;DSA+%26+Competitive+Programmer;Gym+Freak+%26+Martial+Artist" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Full+Stack+Engineer;%F0%9F%A7%A0+GenAI+%26+Backend+Systems;%E2%9A%94+DSA+%7C+C%2B%2B+%7C+Competitive+Programming;%F0%9F%9A%80+Building+Systems%2C+Not+Just+Projects;%F0%9F%A5%8B+Code+%2B+Discipline+%2B+Consistency" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://rahulswain.me">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-rahulswain.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-swain-268484306/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-7B2FFF?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rahuldev403">
+    <img src="https://img.shields.io/badge/⚡_GITHUB-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=Profile%20views&color=00F0FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:6a11cb,50:00c6ff,100:6a11cb&height=3&section=header"/>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev403&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <div align="center">
 
-### 👨‍💻 The Developer & The Athlete 🏋️‍♂️
-
-*Optimizing code complexity by day, building physical aesthetics by night.*
+## 👨‍💻 `ABOUT ME`
 
 </div>
 
-- 🎓 **Education:** Pursuing B.S. Data Science at **IIT Madras** & Computer Science Engineering.
-- 💻 **Stack:** Full Stack Developer specializing in the MERN stack, Next.js, TypeScript, and Python.
-- 🧠 **Focus:** Exploring the frontiers of **Gen AI**, crafting scalable backend systems, and grinding **DSA / CP**.
-- 🥋 **Lifestyle:** Dedicated **Martial Artist** and **Gym Freak**—discipline in the dojo translates to clean architecture in the codebase.
-- ⚡ **Fun Fact:** I treat debugging like a heavy deadlift; it takes form, patience, and absolute focus to get it right.
+```text
+┌──────────────────────────────────────────────────────────┐
+│  > whoami          →  Rahul Swain                        │
+│  > role            →  Full Stack Engineer                │
+│  > focus           →  GenAI • Backend Systems • DSA      │
+│  > weapon          →  C++ / TypeScript / Python / Go     │
+│  > currently       →  Building systems worth remembering │
+│  > mindset         →  Discipline > Motivation            │
+│  > off-duty        →  🥋 Martial arts & training         │
+└──────────────────────────────────────────────────────────┘
+```
 
 <br>
 
----
+<div align="center">
+
+## 🧊 `THE STACK`
+
+</div>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="38%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
+    </td>
+    <td align="center" width="62%">
+      <b>🧠 Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,go&perline=7" /><br><br>
+      <b>⚙️ Frameworks</b><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,graphql&perline=7" /><br><br>
+      <b>🗄️ Data & DevOps</b><br>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,linux,githubactions&perline=6" /><br><br>
+      <b>🛠️ Tools</b><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:00c6ff,50:7b2fff,100:00c6ff&height=3&section=header"/>
 
 <div align="center">
 
-## ⚙️ Tech Arsenal
+## 🧬 `3D CONTRIBUTION UNIVERSE`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nextjs,nodejs,express,mongodb,git,github,tailwind,linux,docker&perline=9" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub contribution graph"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 📊 `GITHUB MATRIX`
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&show_icons=true&hide_border=true&theme=tokyonight&bg_color=05001A&title_color=00F7FF&icon_color=7B2FFF&text_color=FFFFFF&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldev403&layout=compact&hide_border=true&theme=tokyonight&bg_color=05001A&title_color=00F7FF&text_color=FFFFFF" width="40%"/>
 
 <br><br>
 
-## 🏆 GitHub Stats & Streaks
-
-<img src="https://github-readme-stats.vercel.app/api?username=rahuldev403&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=rahuldev403&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&bg_color=05001A&color=00F7FF&line=7B2FFF&point=FFFFFF&area=true&area_color=3B0CA3&hide_border=true" width="95%"/>
 
 <br><br>
 
-## 💻 LeetCode Grind
+<img src="https://github-profile-trophy.vercel.app/?username=rahuldev403&theme=nord&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🧩 `LEETCODE GRIND`
 
 <a href="https://leetcode.com/rahuldev403/">
-  <img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap&theme=dark&hide_border=true"/>
+<img src="https://leetcard.jacoblin.cool/rahuldev403?ext=heatmap&theme=dark&border=0"/>
 </a>
 
-<br><br>
-
-## 📈 Activity & Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuldev403&theme=tokyo-night&hide_border=true"/>
+</div>
 
 <br>
 
-### 🐍 The Code Snake
+<div align="center">
 
-<img src="https://github.com/rahuldev403/rahuldev403/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
+### 🐍 `CONTRIBUTIONS ARE ALIVE`
+
+<img src="https://raw.githubusercontent.com/rahuldev403/rahuldev403/output/github-snake-dark.svg" width="90%"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:6a11cb,50:00c6ff,100:6a11cb&height=3&section=header"/>
+
+<div align="center">
+
+## 🛰️ `THE PHILOSOPHY`
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 <br><br>
 
-## ✨ Daily Dev Motivation
+### `⚡ BUILD SOMETHING WORTH REMEMBERING ⚡`
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Train.+Repeat.;Build+with+purpose.;Discipline+over+motivation.;One+commit+at+a+time." alt="Rahul's philosophy"/>
+</p>
+
+<p align="center">
+  <i>"Don't wish it were easier. Wish you were better."</i>
+</p>
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=100:2575fc,0:6a11cb&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05001a,35:3b0ca3,65:00c6ff,100:05001a&height=130&section=footer&animation=twinkling"/>
 </p>
