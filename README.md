@@ -51,7 +51,6 @@
 
 <br>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
@@ -65,7 +64,6 @@
 
 <br>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt=""/></p>
 
 <div align="center">
 
