@@ -28,17 +28,15 @@
 
 <div align="center">
 
-
-
 ## 🧊 `THE STACK`
 
 </div>
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="38%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
-    </td>
+    <td align="center" width="40%">
+  <img src="./assets/dev.jpg" width="100%" alt="Developer illustration"/>
+</td>
     <td align="center" width="62%">
       <b>🧠 Languages</b><br>
       <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,go&perline=7" /><br><br>
