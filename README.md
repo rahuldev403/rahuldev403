@@ -15,6 +15,18 @@
   </a>
 </p>
 
+
+<div align="center">
+
+### 🐍 `CONTRIBUTIONS ARE ALIVE`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahuldev403/rahuldev403/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/rahuldev403/rahuldev403/output/github-snake.svg" width="800" alt="Contribution snake"/>
+</picture>
+
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahuldev403&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 </p>
@@ -64,15 +76,6 @@
 
 
 
-<div align="center">
-
-### 🐍 `CONTRIBUTIONS ARE ALIVE`
-
-<img src="https://raw.githubusercontent.com/rahuldev403/rahuldev403/output/github-snake-dark.svg" width="90%"/>
-
-</div>
-
-<br>
 
 
 
