@@ -74,18 +74,13 @@
 
 <br>
 
-
-
-
-
-
 <div align="center">
 
 ## 🛰️ `THE PHILOSOPHY`
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-<br><br>
+<br>
 
 ### `⚡ BUILD SOMETHING WORTH REMEMBERING ⚡`
 
