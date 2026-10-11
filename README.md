@@ -6,16 +6,15 @@
 
 <p align="center">
   <a href="https://rahulswain.me">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rahul-swain-268484306/">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-7B2FFF?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rahuldev403">
-    <img src="https://img.shields.io/badge/⚡_GITHUB-111111?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 
 <div align="center">
 
